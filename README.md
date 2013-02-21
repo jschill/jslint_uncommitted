@@ -11,3 +11,4 @@ Credits
 * https://github.com/jrburke/dvcs_jslint
 * https://github.com/wbecker/dvcs_hook-jslint-node
 * http://www.madr.se/b/jslint-git-hook
+* http://stackoverflow.com/questions/1837681/pre-commit-hook-for-jslint-in-mercurial-and-git

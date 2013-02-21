@@ -12,6 +12,7 @@ Requirements
 * Git
 * Node
 * JSLint
+* ..and probably a Mac. I haven't tested it elsewhere.
 
 
 Installation
